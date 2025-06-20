@@ -2,7 +2,7 @@
   "user1": {
     "id": "uid=10342(u0_a342) gid=10342(u0_a342) groups=10342(u0_a342),1079(ext_obb_rw),3003(inet),9997(everybody),20342(u0_a342_cache),50342(all_a342) context=u:r:untrusted_app_27:s0:c86,c257,c512,c768",
     "status": "false",
-    "blokir": "unblokir"
+    "blokir": "blokir"
   },
   "user2": {
     "id": "uid user dua disini",
