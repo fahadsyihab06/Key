@@ -10,9 +10,9 @@
     "status": "true",
     "blokir": "unblokir"
   },
-  "user2": {
-    "id": "uid user dua disini",
-    "status": "false",
-    "blokir": "blokir"
+  "galirus": {
+    "id": "uid=10224(u0_a224) gid=10224(u0_a224) groups=10224(u0_a224),3003(inet),9997(everybody),20224(u0_a224_cache),50224(all_a224) context=u:r:untrusted_app_27:s0:c224,c256,c512,c768",
+    "status": "true",
+    "blokir": "unblokir"
   }
 }
