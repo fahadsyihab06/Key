@@ -14,5 +14,10 @@
     "id": "uid=10224(u0_a224) gid=10224(u0_a224) groups=10224(u0_a224),3003(inet),9997(everybody),20224(u0_a224_cache),50224(all_a224) context=u:r:untrusted_app_27:s0:c224,c256,c512,c768",
     "status": "true",
     "blokir": "unblokir"
+  },
+  "user3": {
+    "id": "uid=10381(u0_a381) gid=10381(u0_a381) groups=10381(u0_a381),1077(external_storage),3003(inet),9997(everybody),20381(u0_a381_cache),50381(all_a381) context=u:r:untrusted_app_27:s0:c125,c257,c512,c768",
+    "status": "false",
+    "blokir": "unblokir"
   }
 }
