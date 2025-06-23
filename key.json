@@ -34,5 +34,10 @@
     "id": "uid=10240(u0_a240) gid=10240(u0_a240) groups=10240(u0_a240),1077(external_storage),3003(inet),9997(everybody),20240(u0_a240_cache),50240(all_a240) context=u:r:untrusted_app_27:s0:c240,c256,c512,c768",
     "status": "false",
     "blokir": "unblokir"
+  },
+  "user6": {
+    "id": "uid=10587(u0_a587) gid=10587(u0_a587) groups=10587(u0_a587),3003(inet),9997(everybody),20587(u0_a587_cache),50587(all_a587),99909997 context=u:r:untrusted_app_27:s0:c75,c258,c512,c768",
+    "status": "false",
+    "blokir": "unblokir"
   }
 }
