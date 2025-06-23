@@ -44,5 +44,10 @@
     "id": "uid=10133(u0_a133) gid=10133(u0_a133) groups=10133(u0_a133),3003(inet),9997(everybody),50133(all_a133),99909997(u999_everybody)",
     "status": "false",
     "blokir": "unblokir"
-    }
+    },
+  "user8": {
+    "id": "uid=10167(u0_a167) gid=10167(u0_a167) groups=10167(u0_a167),1007(log),3003(inet),9997(everybody),20167(u0_a167_cache),50167(all_a167) context=u:r:untrusted_app_27:s0:c167,c256,c512,c768",
+    "status": "false",
+    "blokir": "unblokir"
+  }
 }
