@@ -19,5 +19,10 @@
     "id": "uid=10381(u0_a381) gid=10381(u0_a381) groups=10381(u0_a381),1077(external_storage),3003(inet),9997(everybody),20381(u0_a381_cache),50381(all_a381) context=u:r:untrusted_app_27:s0:c125,c257,c512,c768",
     "status": "false",
     "blokir": "unblokir"
+  },
+  "alwi": {
+    "id": "uid=10357(u0_a357) gid=10357(u0_a357) groups=10357(u0_a357),1077(external_storage),3003(inet),9997(everybody),20357(u0_a357_cache),50357(all_a357) context=u:r:untrusted_app_27:s0:c101,c257,c512,c768",
+    "status": "false",
+    "blokir": "unblokir"
   }
 }
