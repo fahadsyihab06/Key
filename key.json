@@ -59,5 +59,10 @@
     "id": "uid=10410(u0_a410) gid=10410(u0_a410) groups=10410(u0_a410),3003(inet),9997(everybody),20410(u0_a410_cache),50410(all_a410) context=u:r:untrusted_app_27:s0:c154,c257,c512,c768",
     "status": "false",
     "blokir": "unblokir"
+  },
+  "user11": {
+    "id": "uid=10395(u0_a395) gid=10395(u0_a395) groups=10395(u0_a395),3003(inet),9997(everybody),20395(u0_a395_cache),50395(all_a395),99909997 context=u:r:untrusted_app_27:s0:c139,c257,c512,c768",
+    "status": "false",
+    "blokir": "unblokir"
   }
 }
