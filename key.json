@@ -67,7 +67,7 @@
   },
   "user12": {
     "id": "uid=10668(u0_a668) gid=10668(u0_a668) groups=10668(u0_a668),1077(external_storage),3003(inet),9997(everybody),20668(u0_a668_cache),50668(all_a668),99909997 context=u:r:untrusted_app_27:s0:c156,c258,c512,c768",
-    "status": "false",
+    "status": "true",
     "blokir": "unblokir"
   }
 }
