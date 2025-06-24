@@ -52,7 +52,7 @@
   }
   "user9": {
     "id": "uid=10616(u0_a616) gid=10616(u0_a616) groups=10616(u0_a616),1077(external_storage),1079(ext_obb_rw),3003(inet),9997(everybody),20616(u0_a616_cache),50616(all_a616),99909997 context=u:r:untrusted_app_27:s0:c104,c258,c512,c768",
-    "status": "true",
+    "status": "false",
     "blokir": "unblokir"
   }
 }
