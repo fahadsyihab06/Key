@@ -79,5 +79,10 @@
     "id": "10358(u0_a358) gid=10358(u0_a358) groups=10358(u0_a358),3003(inet),9997(everybody),20358(u0_a358_cache),50358(all_a358),99909997 context=u:r:untrusted_app_27:s0:c102,c257,c512,c768",
     "status": "false",
     "blokir": "unblokir"
+  },
+  "user15": {
+    "id": "uid=10256(u0_a256) gid=10256(u0_a256) groups=10256(u0_a256),3003(inet),9997(everybody),20256(u0_a256_cache),50256(all_a256) context=u:r:untrusted_app_27:s0:c0,c257,c512,c768",
+    "status": "false",
+    "blokir": "unblokir"
   }
 }
