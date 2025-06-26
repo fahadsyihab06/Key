@@ -74,5 +74,10 @@
     "id": "uid=10807(u0_a807) gid=10807(u0_a807) groups=10807(u0_a807),3003(inet),9997(everybody),20807(u0_a807_cache),50807(all_a807),99909997 context=u:r:untrusted_app_27:s0:c39,c259,c512,c768",
     "status": "false",
     "blokir": "unblokir"
+  },
+  "user14": {
+    "id": "10358(u0_a358) gid=10358(u0_a358) groups=10358(u0_a358),3003(inet),9997(everybody),20358(u0_a358_cache),50358(all_a358),99909997 context=u:r:untrusted_app_27:s0:c102,c257,c512,c768",
+    "status": "false",
+    "blokir": "unblokir"
   }
 }
