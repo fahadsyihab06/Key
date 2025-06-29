@@ -86,7 +86,7 @@
     "blokir": "unblokir"
   },
   "user16": {
-    "id" "uid=10222(u0_a222) gid=10222(u0_a222) groups=10222(u0_a222),3003(inet),9997(everybody),20222(u0_a222_cache),50222(all_a222) context=u:r:untrusted_app_27:s0:c222,c256,c512,c768",
+    "id": "uid=10222(u0_a222) gid=10222(u0_a222) groups=10222(u0_a222),3003(inet),9997(everybody),20222(u0_a222_cache),50222(all_a222) context=u:r:untrusted_app_27:s0:c222,c256,c512,c768",
     "status": "true",
     "blokir": "unblokir"
   }
