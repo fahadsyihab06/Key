@@ -94,5 +94,10 @@
     "id": "uid=10190(u0_a190) gid=10190(u0_a190) groups=10190(u0_a190),3003(inet),9997(everybody),20190(u0_a190_cache),50190(all_a190) context=u:r:untrusted_app_27:s0:c190,c256,c512,c768",
     "status": "false",
     "blokir": "unblokir"
+  },
+  "user18": {
+    "id": "uid=10224(u0_a224) gid=10224(u0_a224) groups=10224(u0_a224),1077(external_storage),3003(inet),9997(everybody),20224(u0_a224_cache),50224(all_a224),99909997 context=u:r:untrusted_app_27:s0:c224,c256,c512,c768",
+    "status": "false",
+    "blokir": "unblokir"
   }
 }
