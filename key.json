@@ -102,7 +102,7 @@
   },
   "user19": {
     "id": "uid=10439(u0_a439) gid=10439(u0_a439) groups=10439(u0_a439),3003(inet),9997(everybody),20439(u0_a439_cache),50439(all_a439) context=u:r:untrusted_app_27:s0:c183,c257,c512,c768",
-    "status": "false",
+    "status": "true",
     "blokir": "unblokir"
   }
 }
