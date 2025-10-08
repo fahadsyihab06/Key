@@ -109,5 +109,10 @@
     "id": "uid=10375(u0_a375) gid=10375(u0_a375) groups=10375(u0_a375),1077(external_storage),3003(inet),9997(everybody),20375(u0_a375_cache),50375(all_a375) context=u:r:untrusted_app_27:s0:c119,c257,c512,c768",
     "status": "false",
     "blokir": "unblokir"
+  },
+  "user21": {
+    "id": "uid=10266(u0_a266) gid=10266(u0_a266) groups=10266(u0_a266),3003(inet),9997(everybody),20266(u0_a266_cache),50266(all_a266),99909997(u999_everybody) context=u:r:untrusted_app_27:s0:c10,c257,c512,c768",
+    "status": "false",
+    "blokir": "unblokir"
   }
 }
