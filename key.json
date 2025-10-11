@@ -10,7 +10,7 @@
     "status": "true",
     "blokir": "unblokir"
   },
-  "galirus": {
+  "user0": {
     "id": "uid=10224(u0_a224) gid=10224(u0_a224) groups=10224(u0_a224),3003(inet),9997(everybody),20224(u0_a224_cache),50224(all_a224) context=u:r:untrusted_app_27:s0:c224,c256,c512,c768",
     "status": "true",
     "blokir": "unblokir"
@@ -20,7 +20,7 @@
     "status": "false",
     "blokir": "unblokir"
   },
-  "alwi": {
+  "user2": {
     "id": "uid=10357(u0_a357) gid=10357(u0_a357) groups=10357(u0_a357),1077(external_storage),3003(inet),9997(everybody),20357(u0_a357_cache),50357(all_a357) context=u:r:untrusted_app_27:s0:c101,c257,c512,c768",
     "status": "false",
     "blokir": "unblokir"
@@ -112,6 +112,11 @@
   },
   "user21": {
     "id": "uid=10266(u0_a266) gid=10266(u0_a266) groups=10266(u0_a266),3003(inet),9997(everybody),20266(u0_a266_cache),50266(all_a266),99909997(u999_everybody) context=u:r:untrusted_app_27:s0:c10,c257,c512,c768",
+    "status": "false",
+    "blokir": "unblokir"
+  },
+  "user22": {
+    "id": "uid=10351(u0_a351) gid=10351(u0_a351) groups=10351(u0_a351),3003(inet),9997(everybody),20351(u0_a351_cache),50351(all_a351) context=u:r:untrusted_app_27:s0:c95,c257,c512,c768",
     "status": "false",
     "blokir": "unblokir"
   }
